@@ -1,0 +1,12 @@
+No primeiro semestre do curso técnico em Informática, desenvolvi um codigo com o objetivo de demonstrar 
+os conhecimentos adquiridos na disciplina de Estrutura de Dados. Apresento um pequeno sistema
+de cadastro desenvolvido em Java, sem interface gráfica, focado na aplicação de conceitos fundamentais da linguagem.
+O sistema utiliza a escrita e leitura de arquivos para armazenar e recuperar informações, simulando de forma simples 
+o funcionamento de um banco de dados. Além disso, foi utilizado um laço de repetição while para manter o programa em 
+execução até que o usuário escolha encerrar a aplicação.Também implementei funcionalidades de consulta e edição 
+de registros armazenados no arquivo, permitindo buscar informações já cadastradas e atualizá-las quando necessário. 
+Esses conceitos foram importantes para compreender melhor a lógica de persistência de dados e fortalecer meu aprendizado na linguagem Java.
+Durante o desenvolvimento do projeto, utilizei como apoio ferramentas de Inteligência Artificial e videoaulas disponíveis no YouTube.
+No entanto, o objetivo não foi apenas copiar e colar códigos prontos, mas compreender o funcionamento das soluções apresentadas. 
+Busquei estudar cada parte do código, entendendo a lógica por trás das implementações para ser capaz de reproduzir e escrever o 
+código de forma consciente, enquanto assimilava os conceitos envolvidos.
